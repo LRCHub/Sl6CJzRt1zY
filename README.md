@@ -1,0 +1,37 @@
+# 喜多修平 – Soul Phrase -long ver.-
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:23.98] I believe so strongly
+[00:26.24] That tomorrow never falls away
+[00:30.92] 月光した
+[00:32.92] 
+[00:34.65] It still awaits
+[00:36.00] It still carries on through its old ways
+[00:41.39] Till this moment of time
+[00:53.39] 
+[00:45.48] あの時 交わした
+[00:48.42] 言葉が鳴り響いて
+[00:53.14] ささやかな夢
+[00:56.14] 
+[00:56.83] There is no more darkness
+[00:59.12] No more tears in the rain
+[01:02.60] No one hurt
+[01:08.10] 
+[01:06.82] Write me an endless song (When you let go)
+[01:11.73] As I'll feel so alive
+[01:13.98] 繰り返す Soul Phrase (I'm walking on my way)
+[01:33.98] 
+[01:17.95] Now write me an endless song (When you let go)
+[01:22.82] As I'll feel so alive
+[01:25.03] 渡り行く 闇の先へ
+[01:29.53] 
+[02:06.98] Write me an endless song (When you let go)
+[02:11.79] As I'll feel so alive
+[02:13.81] 繰り返す Soul Phrase (I'm walking on my way)
+[02:33.81] 
+[02:17.64] Now write me an endless song (When you let go)
+[02:22.47] As I'll feel so alive
+[02:24.97] 渡り行く 闇の先へ
+```
