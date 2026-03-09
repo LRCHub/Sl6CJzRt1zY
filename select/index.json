@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "Soul Phrase -long ver.-",
+  "base_artist": "喜多修平",
+  "createdAt": "2026-03-09T13:17:49.178632Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Soul Phrase -Long Ver.-",
+      "artist": "喜多修平",
+      "has_synced": true,
+      "path": "select/01_Soul_Phrase_-Long_Ver.-_喜多修平.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Soul Phrase - long ver.",
+      "artist": "喜多修平",
+      "has_synced": true,
+      "path": "select/02_Soul_Phrase_-_long_ver._喜多修平.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Soul Phrase -long ver.-",
+      "artist": "Shuhei Kita",
+      "has_synced": true,
+      "path": "select/03_Soul_Phrase_-long_ver.-_Shuhei_Kita.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Soul Phrase -long ver.-",
+      "artist": "Shuhei Kita",
+      "has_synced": true,
+      "path": "select/04_Soul_Phrase_-long_ver.-_Shuhei_Kita.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Soul Phrase - long ver.",
+      "artist": "Shuuhei Kita",
+      "has_synced": true,
+      "path": "select/05_Soul_Phrase_-_long_ver._Shuuhei_Kita.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Soul Phrase -long ver.-",
+      "artist": "喜多修平",
+      "has_synced": false,
+      "path": "select/pl_01_Soul_Phrase_-long_ver.-_喜多修平.txt"
+    }
+  ]
+}
